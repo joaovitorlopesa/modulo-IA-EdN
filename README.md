@@ -20,5 +20,9 @@ As atividades estão divididas por pastas, de acordo com cada aula:
     - [Verificador de número par](./aula02/numero-par.py)
     - [Posso votar?](./aula02/posso-votar.py)
     - [Validador de dia útil](./aula02/validador-dia-util.py)
-    - [Validador de intervalo de número](./aula02/validar-intervalo-numero.py)
+    - [Validador de intervalo de número](./aula02/validador-intervalo-numero.py)
+
+- [Aula 03](./aula03/)
+    - [Calculadora](./aula03/calculadora.py)
+    - [Média de nota de alunos](./aula03/media-alunos.py)
 
