@@ -26,3 +26,13 @@ As atividades estão divididas por pastas, de acordo com cada aula:
     - [Calculadora](./aula03/calculadora.py)
     - [Média de nota de alunos](./aula03/media-alunos.py)
 
+- [Aula 04](./aula04/)
+    - [Contador de números pares e ímpares](./aula04/contador-par-impar.py)
+    - [Calculadora de gorjeta](./aula04/funcao-gorgeta-total.py)
+    - [Calculadora simples de gorjeta](./aula04/funcao-gorgeta.py)
+    - [Validador de senhas](./aula04/validador-de-senha.py)
+
+- [Aula 05](./aula05/)
+    - [Calculadora de idade em dias](./aula05/calculadora-idade-dias.py)
+    - [Manipulador API](./aula05/manipulacao-api.py)
+    - [Validador de palíndromo](./aula05/validador-palindromo.py)
